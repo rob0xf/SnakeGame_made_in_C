@@ -11,6 +11,7 @@ Check that these commands may be related to your distribution to Linux
 <br>
 If you have problems installing ncurses visit: https://www.cyberciti.biz/faq/linux-install-ncurses-library-headers-on-debian-ubuntu-centos-fedora/
 <br>
+<br>
 Execute: 
 <br>
 
