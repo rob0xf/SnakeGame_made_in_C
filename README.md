@@ -18,7 +18,7 @@ Execute:
 make
 ./snake
 ```
-<br>
+
 And play
 <br>
 Note: for now you can try just Termux
