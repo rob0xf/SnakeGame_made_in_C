@@ -13,6 +13,7 @@ If you have problems installing ncurses visit: https://www.cyberciti.biz/faq/lin
 <br>
 Execute: 
 <br>
+
 ```sh
 make
 ./snake
