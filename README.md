@@ -11,6 +11,13 @@ Check that these commands may be related to your distribution to Linux
 <br>
 If you have problems installing ncurses visit: https://www.cyberciti.biz/faq/linux-install-ncurses-library-headers-on-debian-ubuntu-centos-fedora/
 <br>
-Run the ``make`` statement and play
+Execute: 
+<br>
+```sh
+make
+./snake
+```
+<br>
+And play
 <br>
 Note: for now you can try just Termux
